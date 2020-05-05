@@ -1,0 +1,47 @@
+
+*hu.bme.mit.spaceship.TorpedoStore#fire(I)ZN
+DC:/work/ivt-lab/src/main/java/hu/bme/mit/spaceship/TorpedoStore.java ("4"5*∞
+4N
+DC:/work/ivt-lab/src/main/java/hu/bme/mit/spaceship/TorpedoStore.java$ $(|z
+N
+DC:/work/ivt-lab/src/main/java/hu/bme/mit/spaceship/TorpedoStore.java' '(!
+%2java.util.Random"java.util.Randomè
+å
+N
+DC:/work/ivt-lab/src/main/java/hu/bme/mit/spaceship/TorpedoStore.java' '(#
+%3"java.util.Random#<init>()V*
+
+%2java.util.Randomí
+è
+N
+DC:/work/ivt-lab/src/main/java/hu/bme/mit/spaceship/TorpedoStore.java' '($
+	generatorjava.util.Random"__id*
+
+%2java.util.Random∞≠
+N
+DC:/work/ivt-lab/src/main/java/hu/bme/mit/spaceship/TorpedoStore.java( ((%
+%4double"java.util.Random#nextDouble()D*
+
+	generatorjava.util.Random2nextDouble()*
+1*⁄
+5N
+DC:/work/ivt-lab/src/main/java/hu/bme/mit/spaceship/TorpedoStore.java!# !(5°û
+N
+DC:/work/ivt-lab/src/main/java/hu/bme/mit/spaceship/TorpedoStore.java!
+ !("(
+%0"java.lang.IllegalArgumentException""java.lang.IllegalArgumentException€
+ÿ
+N
+DC:/work/ivt-lab/src/main/java/hu/bme/mit/spaceship/TorpedoStore.java! !(6
+%1">java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V**
+(
+%0"java.lang.IllegalArgumentException*
+numberOfTorpedos*
+4*≠
+1N
+DC:/work/ivt-lab/src/main/java/hu/bme/mit/spaceship/TorpedoStore.java3 3("X
+N
+DC:/work/ivt-lab/src/main/java/hu/bme/mit/spaceship/TorpedoStore.java3 3(
+"":
+""B%#
+!hu.bme.mit.spaceship.TorpedoStore

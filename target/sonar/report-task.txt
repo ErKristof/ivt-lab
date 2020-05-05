@@ -1,0 +1,7 @@
+organization=erkristof
+projectKey=ErKristof_ivt-lab
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.7525
+dashboardUrl=https://sonarcloud.io/dashboard?id=ErKristof_ivt-lab
+ceTaskId=AXHkkaCBgsUG0WscK-K_
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXHkkaCBgsUG0WscK-K_
